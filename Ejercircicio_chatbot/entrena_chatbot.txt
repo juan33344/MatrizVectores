@@ -1,0 +1,52 @@
+# --- SALUDOS ---
+hola|hi|hey => ¡Hola! ¿Cómo estás?|¡Hola! ¿Qué tal tu día?
+buenos días => ¡Buenos días! Espero que tengas un excelente día.|¡Hola! ¿Listo para aprender algo nuevo?
+buenas tardes => ¡Buenas tardes! ¿Cómo te va?|¡Hola! ¿Qué tal tu tarde?
+buenas noches => ¡Buenas noches! ¿Cómo estuvo tu día?|Espero que descanses bien.
+
+# --- DESPEDIDAS ---
+adiós|bye|hasta luego => ¡Adiós! Fue un placer hablar contigo.|¡Hasta pronto, cuídate!
+nos vemos => ¡Claro! Hasta la próxima.|Nos vemos, que tengas suerte.
+
+# --- CONOCIMIENTO PERSONAL ---
+¿cómo estás?|cómo estas => Estoy bien, gracias por preguntar. ¿Y tú?|Me siento genial, gracias a ti.
+¿cuál es tu nombre?|cómo te llamas => Me llamo Chatbot, ¿y tú?|Soy tu asistente virtual.
+¿qué eres?|quién eres => Soy un chatbot hecho en Python con NLTK.|Soy un programa diseñado para conversar contigo.
+¿puedes aprender? => Por ahora no aprendo de ti, pero me entrenaron con frases.|Los chatbots más avanzados sí aprenden, yo todavía no.
+
+# --- CONVERSACIÓN GENERAL ---
+¿qué haces?|a qué te dedicas => Estoy aquí para responder preguntas y conversar.|Estoy practicando mi inteligencia contigo.
+gracias|muchas gracias => ¡De nada!|No hay problema, estoy para ayudarte.
+me siento feliz => ¡Genial! Me alegra mucho escucharlo.|La felicidad es lo mejor, ¡disfrútala!
+me siento triste => Lo lamento, hablar siempre ayuda.|Ánimo, todo mejora con el tiempo.
+me siento cansado => Descansar un poco siempre viene bien.|Tal vez necesitas un respiro.
+
+# --- DEPORTES ---
+¿te gusta el fútbol?|sabes de fútbol => El fútbol es muy popular, ¿tienes un equipo favorito?|No juego, pero sé que el fútbol es muy seguido.
+¿quién ganó el mundial? => El último campeón fue Argentina en 2022.|Argentina ganó el mundial de Qatar 2022.
+¿qué deportes conoces? => Conozco fútbol, básquet, tenis, natación, entre otros.|Muchos: fútbol, básquetbol, atletismo, y más.
+
+# --- MÚSICA ---
+¿te gusta la música? => Sí, aunque no puedo escuchar, sé que la música alegra.|La música es arte, ¿qué género te gusta?
+¿qué géneros de música conoces? => Rock, pop, salsa, reguetón, clásica, jazz, electrónica.|Conozco muchos géneros, ¿cuál prefieres?
+¿quién es tu cantante favorito? => No tengo favoritos, pero hay muchos famosos como Shakira, Bad Bunny, Michael Jackson.|No tengo gustos, pero Shakira y Bad Bunny son muy populares.
+
+# --- TECNOLOGÍA ---
+¿qué es python? => Python es un lenguaje de programación muy usado y fácil de aprender.|Python sirve para inteligencia artificial, web, análisis de datos y más.
+¿qué es inteligencia artificial? => Es la rama de la informática que hace que las máquinas “piensen”.|La IA intenta imitar la inteligencia humana.
+¿qué es un chatbot? => Es un programa que conversa con las personas.|Soy un ejemplo de chatbot.
+
+# --- CLIMA ---
+¿cómo está el clima? => No puedo sentir el clima, pero puedes mirarlo en tu app del tiempo.|El clima depende de tu ciudad, ¿quieres que te ayude a buscarlo?
+¿va a llover hoy? => No lo sé exactamente, revisa tu pronóstico del clima.|Tal vez, depende de dónde estés.
+
+# --- ESTUDIOS ---
+¿qué es estudiar? => Estudiar es aprender algo nuevo y practicarlo.|Es la mejor forma de crecer intelectualmente.
+¿me ayudas a estudiar? => Claro, dime qué tema quieres repasar.|Por supuesto, ¿qué tema necesitas?
+¿qué es una base de datos? => Es un sistema que organiza y guarda información.|Las bases de datos permiten almacenar y recuperar datos fácilmente.
+
+# --- EXTRA / HUMOR ---
+cuéntame un chiste => ¿Por qué la computadora fue al médico? Porque tenía un virus.|¿Qué le dijo un semáforo a otro? ¡No me mires, me estoy cambiando!
+¿cuál es el sentido de la vida? => Algunos dicen que es 42.|El sentido de la vida depende de cada persona.
+(.*) => No entiendo bien eso.|¿Puedes explicarlo mejor?|Eso suena interesante.
+
