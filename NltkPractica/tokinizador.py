@@ -5,7 +5,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 
 mensaje = "Hola, ¿cómo estás? Espero que estés teniendo un buen día. ¡Nos vemos pronto!"
 
-palabras = word_tokenize(mensaje.rstrip())
+palabras = word_tokenize(mensaje)
 oraciones = sent_tokenize(mensaje)
 
 print("Palabras:", palabras)

@@ -10,7 +10,7 @@ mensaje = "el procesamiento de lenguaje natural es una disciplina fascinante."
 palabras = word_tokenize(mensaje)
 
 # Filtrar las palabras vacías
-stop_words = set(stopwords.words("spanish"))
+stop_words = set(stopwords.words("spanish")) 
 palabras_clave = [word for word in palabras if word.lower() not in stop_words]
 
-print("Palabras clave:", palabras_clave)
+print("Palabras clave:", palabras_clave) # Palabras clave: ['procesamiento', 'lenguaje', 'natural', 'disciplina', 'fascinante', '.']
